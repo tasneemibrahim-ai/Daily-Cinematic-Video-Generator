@@ -1,0 +1,19 @@
+# Daily Cinematic Video Generator - Core Dependencies
+torch
+torchvision
+diffusers>=0.28.0
+transformers
+accelerate
+imageio[ffmpeg]
+opencv-python
+pillow
+scikit-image
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+lpips
+torchmetrics
+datasets
+soundfile
